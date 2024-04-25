@@ -1,3 +1,3 @@
 # htmlpractices
-basics html 
+This is my first HTML code
 Author-kajalkumari
